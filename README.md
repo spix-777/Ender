@@ -52,5 +52,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Have questions, suggestions, or issues? Feel free to open an issue on the [GitHub repository](https://github.com/yourusername/ender)!
+Have questions, suggestions, or issues? Feel free to open an issue on the [GitHub repository](https://github.com/spix-777/Ender)!
 
